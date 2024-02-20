@@ -1,0 +1,22 @@
+{
+    "materias":[
+        {   "id":1,
+            "Nome": "calculo 1",
+            "Nucleo":"Matemática",
+            "Carga_Horaria": 90,
+            "Emenda":"Revisão de matemática fundamental; operações com monômios; polinômios; funções reais de uma variávelreal; limite; continuidade; derivação; funções transcendentes (trigonométricas, logarítmicas, exponenciais,hiperbólicas); regra de lHôpital; aplicações da derivada (traçado de gráficos, máximos e mínimos,movimento retilíneo); integral indefinida; integral definida; teorema fundamental do cálculo"      
+        },
+        {   "id":2,
+            "Nome": "Fisica 1",
+            "Carga_Horaria": 75,
+            "Nucleo":"Fisica",
+            "Emenda":"Medidas e unidades; movimento unidimensional; movimento bidimensional e tridimensional; força e leis de Newton; dinâmica da partícula; trabalho e energia; conservação de energia; sistemas de partículas ecolisões; cinemática rotacional; dinâmica rotacional e momento angular."
+        },
+        {   "id":3,
+            "Nome": "Didatica geral",
+            "Carga_Horaria": 40,
+            "Nucleo":"Pedagogia",
+            "Emenda":"Pressupostos teóricos, históricos, filosóficos e sociais da Didática; Tendências e concepções pedagógicas e suas implicações no processo de ensino e aprendizagem; A multidimensionalidade da didática e os processos de ensino e de aprendizagem; Planejamento pedagógico: diferentes dimensões; Componentes do processo de ensino e de aprendizagem: objetivos, conteúdos, métodos e procedimentos de ensino, recursos de ensino e avaliação; As relações entre professor, aluno e aprendizagem."
+    }
+    ]
+}
